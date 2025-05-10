@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+Hello world!
+
+[About section](about.markdown)
