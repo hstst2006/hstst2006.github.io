@@ -18,20 +18,29 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Håvard's homepage
+title: Håvard's Homepage
+author: Håvard Skordal Thorsen
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Håvard's Homepage is a github pages page that may eventually be used to host something of worth.
 baseurl: "/" # the subpath of your site, e.g. /blog
 domain: "hstst2006.github.io"
 url: "https://hstst2006.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  hstst2006
 
+navbar-links:
+  Hello: "aboutme"
+
+post_search: true
+feed_show_excerpt: false
+feed_show_tags: true
+
+
 # Build settings
-theme: minima
+#theme: beautiful-jekyll-theme
+remote_theme: daattali/beautiful-jekyll@6.0.1
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
