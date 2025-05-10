@@ -3,8 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: "Home"
+theme: modernist
 ---
 
 Hello world!
 
-[About section](about.markdown)
+[About section](about.md)
