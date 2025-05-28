@@ -9,9 +9,9 @@ published: true
 tags: ["hello, world!", blog, general]
 ---
 
-Every self respecting blog needs a clichéd first post. This is that post. Because it is programming related it *has to be* "Hello, world!", there were no other options. Any program og programming project needs a "Hello world" part somehow. It shows that everything works as it should before you start doing serious work.
+Every self respecting blog needs a clichéd first post. This is that post. Because the blog is likely going to be programming related it "Hello, world!" is the only proper choice. "Hello, world!" shows that everything works as intended before you start doing serious work.
 
-Because this is the first blog post, and also a sort of test page, I can use this opportunity to see how the markdown formatting looks on the github pages page for my own future reference. This way I can see how the formatting looks, but also not have to depend on the "Welcome to Jekyll" blogpost that was graciously supplied with this project template.
+Since this is the first blog post and a test page, I can use this opportunity to see how the markdown formatting looks on the github pages page for my own future reference. This way I can see how the formatting looks without depending on the "Welcome to Jekyll" blogpost that was graciously supplied with this project template.
 
 Among the included examples were the `file name formatting` of the blogposts in the `_posts` folder: `Year-Month-Date-title.md`
 
