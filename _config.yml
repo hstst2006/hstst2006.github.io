@@ -28,7 +28,7 @@ url: "https://hstst2006.github.io" # the base hostname & protocol for your site,
 github_username:  hstst2006
 
 navbar-links:
-  Hello: "aboutme"
+  About: "about"
 
 post_search: true
 feed_show_excerpt: false
