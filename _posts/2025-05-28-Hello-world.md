@@ -6,7 +6,7 @@ date:   2025-05-28
 last-updated: 2025-10-02
 categories: blog
 published: true
-tags: ["hello, world!", blog, general]
+tags: ["hello, world!", Blog, General]
 ---
 
 Every self respecting blog needs a clichéd first post. This is that post. This blog is likely going to be programming related, so "Hello, world!" is the only proper choice of title for this first post. "Hello, world!" shows that everything works as intended before you start doing more serious work.
