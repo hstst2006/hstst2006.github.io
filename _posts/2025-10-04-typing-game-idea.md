@@ -5,7 +5,7 @@ subtitle: "Inspiration, and core gameplay mechanics"
 date:   2025-10-04
 last-updated: 2025-10-04
 categories: blog
-published: true # Change this to publish!
+published: true
 tags: [Blog, Game Design, Typing, Game, Typing Game]
 ---
 
