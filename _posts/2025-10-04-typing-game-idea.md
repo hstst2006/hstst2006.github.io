@@ -3,9 +3,9 @@ layout: post
 title:  "Making a typing game"
 subtitle: "Inspiration, and core gameplay mechanics"
 date:   2025-10-04
-last-updated: 2025-10-04
+last-updated: 2025-10-07
 categories: blog
-published: true
+published: false
 tags: [Blog, Game Design, Typing, Game, Typing Game]
 ---
 
